@@ -9,7 +9,7 @@ Technology Stack: -
 The entire coding is done in Java with NetBeans IDE 8.0.1.
 
 Classes and Functions: -
-The program makes the use of 4 classes: - 
+The program makes the use of 2 classes: - 
 1. Btree
 2. BST
 
